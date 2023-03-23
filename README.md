@@ -1,6 +1,6 @@
-## Developed live on twitch
-[ThePrimeagen](https://twitch.tv/ThePrimeagen)
-
+#This boilerplate was created by ThePrimeagen and used on his course 
+https://theprimeagen.github.io/fem-algos/
+https://frontendmasters.com/courses/algorithms/
 ## Naming
 ### Lig-Machine
 Lengthy Instrumentation Generating Massive Anticompetitive Computational Help for Intermediate Coders // n9
