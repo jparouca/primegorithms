@@ -1,3 +1,5 @@
+This boilerplate comes from ThePrimeagen algorithms course.
+https://frontendmasters.com/courses/algorithms/
 ### How It Works
 
 Make sure you have [Node.js](https://nodejs.org/en/) and yarn installed: `npm install --global yarn`
